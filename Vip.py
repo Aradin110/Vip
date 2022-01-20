@@ -86,7 +86,7 @@ print  """
 
 \033[1;91m              WELCOME TO ARADIN CLONING :)) 
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;92m➣ \033[1;96mTHANKS FOR USE MY COMMANDS (^o^) ..
+\033[1;92m➣ \033[1;96mTHANKS FOR USE MY COMMANDS ..
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;92m➣ \033[1;92mDEVOLPER   :         ARADIN 
 \033[1;91m➣ \033[1;92mFACEBOOK   :       Illıllı Ɩɱtɩʌʑ Illıllı 
