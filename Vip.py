@@ -199,10 +199,7 @@ def action():
         print logo2
         print "\033[1;91m➣ \033[1;97mEnter any Pakistan Mobile code Number Jazz [03 FAST]"+'\n'
         print '\033[1;92m➣ \033[1;93mExample'
-        print '\033[1;92m[+] Jazz   [FAST 03] :  00 01 02 03 04 05 06 07 08 09                      \033[1;92m        [+] Telenor :  40 41 42 43 44 45 46 47 48 49' /033[1;92m[+] Zong    :  10 11 12 13 14 15 16 17 18
-        print '\033[1;92m[+] Warid   :  22 23 24 25 
-        print '\033[1;92m[+] Ufone   :  31 32 33 34 35 36 37 38 
-        print '\033[1;92m[+] Telenor :  40 41 42 43 44 45 46 47 48 49
+        print '\033[1;92m[+] Jazz    :  00 01 02 03 04 05 06 07 08 09   \033[1;92m[+] Zong    :  10 11 12 13 14 15 16 17 18      \033[1;92m[+] Warid   :  22 23 24 25                     \033[1;92m[+] Ufone   :  31 32 33 34 35 36 37 38         [+] Telenor :  40 41 42 43 44 45 46 47 48 49
         try:
             c = raw_input("\033[1;92m➣ \033[1;97mCHOOSE : ")
             k="03"
