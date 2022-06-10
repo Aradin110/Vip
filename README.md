@@ -16,8 +16,10 @@ pip2 install mechanize
 
 pip2 install requests
 
+rm -rt Vip
+
 git clone https://github.com/Aradin110/Vip.git
 
 cd Vip
 
-python2 Vip.py
+python AK.py
